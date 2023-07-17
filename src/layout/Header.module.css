@@ -1,0 +1,21 @@
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(164, 146, 185);
+}
+
+.header .ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  width: 30%;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 700;
+  color: rgb(218, 215, 37);
+}
